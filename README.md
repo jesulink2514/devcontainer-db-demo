@@ -8,6 +8,9 @@ En este video veremos como usar Visual Studio Code Remote Containers para prepar
   </p>
 </a>
 
+Blog Post:
+https://somostechies.com/vscode-devcontainers-restura-bd/
+
 GitHub:
 https://github.com/jesulink2514/devcontainer-db-demo
 
